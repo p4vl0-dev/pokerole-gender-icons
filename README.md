@@ -9,12 +9,10 @@ A simple module for Foundry VTT that shows gender icons (♂ ♀ ⚲) next to ac
 - Works only if the system setting **"Enable Pokemon Gender Selector"** is turned on.
 - Respects the `none` gender value (hides the icon).
 
-## Installation
-
-1. Download or clone this repository into your Foundry `Data/modules/` folder.
-2. Enable the module in your world's module settings.
-3. Make sure the Pokérole system setting **"Enable Pokemon Gender Selector"** is enabled.
-
+## Manifest URL
+```
+https://raw.githubusercontent.com/p4vl0-dev/pokerole-gender-icons/refs/heads/main/module.json
+```
 ## Usage
 
 Once installed and enabled, open the **Actors** tab – you'll see gender icons next to each actor that has a gender assigned.
