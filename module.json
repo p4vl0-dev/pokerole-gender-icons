@@ -1,0 +1,31 @@
+{
+  "id": "pokerole-gender-icons",
+  "title": "Pokérole Gender Icons",
+  "description": "Adds gender icons to actors in the Actors directory if the genderOption setting is enabled in Pokérole.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Guitarist",
+      "email": "p4vl0.dev@gmail.com",
+      "discord": "p4vl0o"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pokerole",
+        "type": "system"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "url": "https://github.com/p4vl0-dev/pokerole-gender-icons",
+  "manifest": "https://raw.githubusercontent.com/p4vl0-dev/pokerole-gender-icons/refs/heads/main/module.json",
+  "download": "https://github.com/p4vl0-dev/pokerole-gender-icons/releases/latest/download/pokerole-gender-icons.zip"
+}
