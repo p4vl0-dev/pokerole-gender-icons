@@ -2,7 +2,7 @@
   "id": "pokerole-gender-icons",
   "title": "Pokérole Gender Icons",
   "description": "Adds gender icons to actors in the Actors directory if the genderOption setting is enabled in Pokérole.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Guitarist",
